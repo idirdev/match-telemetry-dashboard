@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#0a0e17" rx="12"/>
+  <!-- Sidebar -->
+  <rect x="0" y="0" width="180" height="630" fill="#111827" rx="12"/>
+  <rect x="180" y="0" width="1" height="630" fill="#243044"/>
+  <rect x="16" y="20" width="32" height="32" rx="8" fill="#00ff8820"/>
+  <text x="32" y="42" font-family="monospace" font-size="14" fill="#00ff88" text-anchor="middle" font-weight="bold">T</text>
+  <text x="58" y="42" font-family="system-ui" font-size="14" fill="white" font-weight="600">Telemetry</text>
+  <rect x="8" y="70" width="164" height="32" rx="6" fill="#00ff8815"/>
+  <text x="24" y="91" font-family="system-ui" font-size="12" fill="#00ff88">Live Matches</text>
+  <text x="24" y="121" font-family="system-ui" font-size="12" fill="#6b7280">Analytics</text>
+  <text x="24" y="148" font-family="system-ui" font-size="12" fill="#6b7280">Players</text>
+  <text x="24" y="175" font-family="system-ui" font-size="12" fill="#6b7280">Heatmaps</text>
+  <text x="24" y="202" font-family="system-ui" font-size="12" fill="#6b7280">Anti-Cheat</text>
+  <circle cx="22" cy="608" r="5" fill="#00ff88" opacity="0.8"/>
+  <text x="34" y="612" font-family="system-ui" font-size="10" fill="#6b7280">3 live</text>
+  <!-- Match header -->
+  <rect x="200" y="20" width="980" height="90" rx="12" fill="#111827" stroke="#243044" stroke-width="1"/>
+  <text x="224" y="48" font-family="system-ui" font-size="16" fill="white" font-weight="bold">Match match-2025-0142</text>
+  <text x="224" y="68" font-family="system-ui" font-size="11" fill="#6b7280">Dust II — Competitive 5v5 — EU-West</text>
+  <rect x="1060" y="36" width="56" height="24" rx="12" fill="#00ff8815"/>
+  <text x="1088" y="53" font-family="monospace" font-size="11" fill="#00ff88" text-anchor="middle">128Hz</text>
+  <!-- Score -->
+  <text x="580" y="90" font-family="system-ui" font-size="11" fill="#6b7280">Alpha</text>
+  <text x="640" y="90" font-family="monospace" font-size="28" fill="#00ff88" font-weight="bold" text-anchor="middle">16</text>
+  <text x="690" y="82" font-family="system-ui" font-size="16" fill="#374151" text-anchor="middle">vs</text>
+  <text x="740" y="90" font-family="monospace" font-size="28" fill="#ff3366" font-weight="bold" text-anchor="middle">12</text>
+  <text x="790" y="90" font-family="system-ui" font-size="11" fill="#6b7280">Bravo</text>
+  <!-- Stats cards -->
+  <rect x="200" y="125" width="230" height="70" rx="10" fill="#111827" stroke="#243044" stroke-width="1"/>
+  <text x="220" y="150" font-family="system-ui" font-size="10" fill="#6b7280" letter-spacing="1">AVG. LATENCY</text>
+  <text x="220" y="178" font-family="monospace" font-size="22" fill="#00ff88" font-weight="bold">28ms</text>
+  <rect x="450" y="125" width="230" height="70" rx="10" fill="#111827" stroke="#243044" stroke-width="1"/>
+  <text x="470" y="150" font-family="system-ui" font-size="10" fill="#6b7280" letter-spacing="1">TICK RATE</text>
+  <text x="470" y="178" font-family="monospace" font-size="22" fill="#00d4ff" font-weight="bold">128Hz</text>
+  <rect x="700" y="125" width="230" height="70" rx="10" fill="#111827" stroke="#243044" stroke-width="1"/>
+  <text x="720" y="150" font-family="system-ui" font-size="10" fill="#6b7280" letter-spacing="1">DURATION</text>
+  <text x="720" y="178" font-family="monospace" font-size="22" fill="#b347ff" font-weight="bold">45m</text>
+  <rect x="950" y="125" width="230" height="70" rx="10" fill="#111827" stroke="#243044" stroke-width="1"/>
+  <text x="970" y="150" font-family="system-ui" font-size="10" fill="#6b7280" letter-spacing="1">AC FLAGS</text>
+  <text x="970" y="178" font-family="monospace" font-size="22" fill="#ff3366" font-weight="bold">3</text>
+  <!-- Scoreboard -->
+  <rect x="200" y="210" width="980" height="160" rx="12" fill="#111827" stroke="#243044" stroke-width="1"/>
+  <text x="224" y="238" font-family="system-ui" font-size="14" fill="white" font-weight="600">Scoreboard</text>
+  <text x="224" y="270" font-family="system-ui" font-size="10" fill="#6b7280" letter-spacing="1">PLAYER          K    D    A    K/D   ACC    HS%   DMG</text>
+  <circle cx="222" cy="295" r="4" fill="#00ff88"/>
+  <text x="236" y="299" font-family="monospace" font-size="12" fill="white">NexusHunter</text>
+  <text x="400" y="299" font-family="monospace" font-size="12" fill="#00ff88">31</text>
+  <text x="448" y="299" font-family="monospace" font-size="12" fill="#ff3366">8</text>
+  <text x="496" y="299" font-family="monospace" font-size="12" fill="#6b7280">5</text>
+  <text x="540" y="299" font-family="monospace" font-size="12" fill="white" font-weight="bold">3.88</text>
+  <text x="604" y="299" font-family="monospace" font-size="12" fill="white">42.1%</text>
+  <text x="676" y="299" font-family="monospace" font-size="12" fill="white">58%</text>
+  <text x="740" y="299" font-family="monospace" font-size="12" fill="white">5,100</text>
+  <rect x="810" y="288" width="16" height="16" rx="8" fill="#ff336630"/>
+  <text x="818" y="300" font-family="monospace" font-size="9" fill="#ff3366" text-anchor="middle">1</text>
+  <circle cx="222" cy="323" r="4" fill="#00ff88"/>
+  <text x="236" y="327" font-family="monospace" font-size="12" fill="white">PhantomX</text>
+  <text x="400" y="327" font-family="monospace" font-size="12" fill="#00ff88">28</text>
+  <text x="448" y="327" font-family="monospace" font-size="12" fill="#ff3366">12</text>
+  <text x="496" y="327" font-family="monospace" font-size="12" fill="#6b7280">8</text>
+  <text x="540" y="327" font-family="monospace" font-size="12" fill="white" font-weight="bold">2.33</text>
+  <circle cx="222" cy="351" r="4" fill="#ff3366"/>
+  <text x="236" y="355" font-family="monospace" font-size="12" fill="white">ShadowBlade</text>
+  <text x="400" y="355" font-family="monospace" font-size="12" fill="#00ff88">22</text>
+  <text x="448" y="355" font-family="monospace" font-size="12" fill="#ff3366">15</text>
+  <!-- Charts area -->
+  <rect x="200" y="385" width="480" height="225" rx="12" fill="#111827" stroke="#243044" stroke-width="1"/>
+  <text x="224" y="413" font-family="system-ui" font-size="14" fill="white" font-weight="600">Performance Over Time</text>
+  <!-- Chart lines -->
+  <polyline points="240,540 280,520 320,500 360,480 400,510 440,470 480,450 520,430 560,440 600,410 640,395" stroke="#00ff88" stroke-width="2" fill="none"/>
+  <polyline points="240,550 280,540 320,530 360,510 400,530 440,500 480,490 520,470 560,480 600,460 640,445" stroke="#00d4ff" stroke-width="2" fill="none"/>
+  <polyline points="240,530 280,510 320,520 360,490 400,475 440,460 480,440 520,420 560,410 600,385 640,370" stroke="#b347ff" stroke-width="2" fill="none"/>
+  <rect x="700" y="385" width="480" height="225" rx="12" fill="#111827" stroke="#243044" stroke-width="1"/>
+  <text x="724" y="413" font-family="system-ui" font-size="14" fill="white" font-weight="600">Latency Monitor</text>
+  <!-- Latency area chart mock -->
+  <polyline points="740,580 780,570 820,555 860,560 900,550 940,545 980,555 1020,540 1060,535 1100,545 1140,530" stroke="#00ff88" stroke-width="2" fill="none"/>
+  <polyline points="740,560 780,545 820,530 860,540 900,525 940,520 980,535 1020,515 1060,510 1100,520 1140,505" stroke="#00d4ff" stroke-width="1.5" fill="none" stroke-dasharray="4 2"/>
+  <polyline points="740,540 780,520 820,500 860,515 900,495 940,485 980,510 1020,480 1060,475 1100,490 1140,470" stroke="#ff3366" stroke-width="1" fill="none" stroke-dasharray="2 2"/>
+</svg>
