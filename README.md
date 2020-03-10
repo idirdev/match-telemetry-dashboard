@@ -4,6 +4,12 @@ Real-time game match analytics dashboard for competitive FPS titles. Built with 
 
 ![Preview](./assets/preview.svg)
 
+### Scoreboard
+![Scoreboard](./assets/scoreboard.svg)
+
+### Analytics
+![Analytics](./assets/analytics.svg)
+
 ## Features
 
 - **Match Session Viewer** — Full match overview with team scores, map info, and server details
