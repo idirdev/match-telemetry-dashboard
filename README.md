@@ -65,3 +65,7 @@ src/
 ## License
 
 MIT
+
+## Data Sources
+
+Currently uses mock data. Real-time ingestion planned for v2.
