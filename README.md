@@ -69,3 +69,21 @@ MIT
 ## Data Sources
 
 Currently uses mock data. Real-time ingestion planned for v2.
+
+---
+
+## 🇫🇷 Documentation en français
+
+### Description
+Match Telemetry Dashboard est un tableau de bord d'analytique en temps réel pour les matchs de jeux FPS compétitifs, construit avec Next.js 14 et TypeScript. Il affiche les scoreboards, les statistiques de performances et les données de rounds pour analyser en détail chaque partie. Un outil indispensable pour les équipes esport souhaitant exploiter leurs données de jeu.
+
+### Installation
+```bash
+git clone https://github.com/idirdev/match-telemetry-dashboard.git
+cd match-telemetry-dashboard
+npm install
+npm run dev
+```
+
+### Utilisation
+Lancez le serveur de développement puis accédez à l'application dans votre navigateur pour visualiser les données de télémétrie des matchs. Consultez la documentation en anglais ci-dessus pour la configuration et les fonctionnalités complètes.
